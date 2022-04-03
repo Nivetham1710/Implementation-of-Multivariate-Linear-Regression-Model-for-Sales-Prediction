@@ -68,9 +68,7 @@ l.predict([[150.3,240.5,234.5]])
 
 ## Output:
 
-![GitHub Logo](./a1.png)
-![GitHub Logo](./a2.png)
-![GitHub Logo](./a3.png)
+
 
 
 ## Result:
