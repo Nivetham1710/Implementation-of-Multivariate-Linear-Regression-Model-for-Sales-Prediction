@@ -35,7 +35,7 @@ End the program.
 ```
 /*
 Program to implement the multivariate linear regression model for sales prediction.
-Developed by: Nivrtha.M
+Developed by: Nivetha.M
 RegisterNumber: 212221240034 
 */
 
